@@ -1,0 +1,24 @@
+Ich plane eine Unterstützung für das "Mörderspiel".
+( http://www.spielewiki.org/wiki/M%C3%B6rderspiel )
+
+Was die Webanwendung können soll:
+- User sollen ihre Namen (und ein Bild von sich) eingeben können.
+- Jeder User bekommt den Namen eines anderen Users (dies ist sein Ziel).
+- Erwischt ein User sein Ziel bekommt er das Ziel seines Ziels.
+- Erwischt ein User sein Ziel bekommt er Punkte.
+- User können mitteilen, wenn sie ihr Ziel erwischt haben.
+- Die Punkte werden gespeichert.
+
+Welche Elemente soll der User angezeigt bekommen?
+- Registrierung mit Bild, Name, Passwort, Spielpasswort
+- Namenseingabe
+- Bildupload
+- Passworteingabe
+- vom Admin festgelegtes Passwort, um Fremdbeteiligung zu vermeiden
+- Nachrichten
+- Einloggen mit Name und Passwort
+- Zielname und Bild
+- Button um anzugeben, dass man das Ziel erwischt hat
+- (Button um anzugeben, dass man selbst erwischt wurde)
+- Logoutbutton
+- Punkteanzeige
