@@ -25,6 +25,20 @@ Welche Elemente soll der User angezeigt bekommen?
 - Logoutbutton
 - Punkteanzeige
 
+
+=== Mögliche Interaktive Elemente ===
+-ein rein computerbasiertes Spiel aus dem Mörderspiel zu machen ist der Grundidee widerläufig.
+-daher Fokus auf digitale Unterstützung
+
+-Herrausfordern von Zielen für Bonuspunkte => ankündigen Wann/Wo man es erwischen will
+-Möglichkeit des Erwischens von Zielen auch über geschickte Dateien (müsste man wohl einen Trojaner für nutzen)
+-Punkte aufwenden um sich für bestimmte Zeit zu schützen
+-Tauschen von Zielen
+-Ziele "versteigern"
+-"Kopfgelder" aussetzen
+-GPS-Daten vom Handy, wenn man es in eine App integriert
+-GPS-Daten von allen einsehbar machen
+
 === Feedback Alpers, 2016-04-07 ===
 
 Die Beschreibung der Projektidee ist wirklich sehr gut.
