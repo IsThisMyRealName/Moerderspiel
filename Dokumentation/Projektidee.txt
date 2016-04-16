@@ -15,6 +15,7 @@ Welche Elemente soll der User angezeigt bekommen?
 - Registrierung mit Bild, Name, Passwort, Spielpasswort
 - Namenseingabe
 - Bildupload
+- Aliasbildupload
 - Passworteingabe
 - vom Admin festgelegtes Passwort, um Fremdbeteiligung zu vermeiden
 - Nachrichten
@@ -32,10 +33,10 @@ Welche Elemente soll der User angezeigt bekommen?
 
 -Herrausfordern von Zielen für Bonuspunkte => ankündigen Wann/Wo man es erwischen will
 -Möglichkeit des Erwischens von Zielen auch über geschickte Dateien (müsste man wohl einen Trojaner für nutzen)
--Punkte aufwenden um sich für bestimmte Zeit zu schützen
+-Punkte aufwenden um sich für bestimmte Zeit zu schützen (wird teurer, wenn auf einen ein Kopfgeld ausgesetzt ist, evtl. unmöglich, wenn ein Kopfgeld auf einen ausgesetzt ist)
 -Tauschen von Zielen
--Ziele "versteigern"
--"Kopfgelder" aussetzen
+-Ziele "versteigern" (Wenn jemand den auftrag annim
+-"Kopfgelder" aussetzen (Punkte dafür, dass man das Ziel in einem bestimmten Zeitraum erwischt, evtl. Punktverlust, wenn man den Auftrag nicht rechtzeitig erledigt, oder nur eine begrenzte Anzahl an Aufträgen pro Zeit um zu verhindern, dass man einfach jedes Kopfgeld annimmt)
 -GPS-Daten vom Handy, wenn man es in eine App integriert
 -GPS-Daten von allen einsehbar machen
 
