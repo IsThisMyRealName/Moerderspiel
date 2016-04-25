@@ -1,4 +1,4 @@
-=== Projektidee IsThisMyRealName, 2016-04-05 ===
+﻿=== Projektidee IsThisMyRealName, 2016-04-05 ===
 
 Ich plane eine Unterstützung für das "Mörderspiel".
 ( http://www.spielewiki.org/wiki/M%C3%B6rderspiel )
@@ -125,3 +125,7 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+
+==Feedback Jaacii 25.4.16==
+Klingt ein bisschen wie eine Art umgedrehtes Cluedo. Bin auf das Ergebnis gespannt. Viel Erfolg.
