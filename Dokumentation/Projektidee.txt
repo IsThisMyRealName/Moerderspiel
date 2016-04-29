@@ -132,3 +132,22 @@ Klingt ein bisschen wie eine Art umgedrehtes Cluedo. Bin auf das Ergebnis gespan
 
 ==Feedback julhe 28.04.2016==
 Schöne Beschreibung, daran kann man sich gut orrientieren. Viel Erfolg! :)
+
+===================================
+=== Feedback Alpers, 2016-04-29 ===
+===================================
+
+Leider fehlt in Ihrer Beschreibung immer noch die eigentliche Interaktion. Nochmal: Es ist Ihre Aufgabe, eine interaktive Anwendung zu erstellen, keine DB-Anwendung bzw. keinen Instant Messenger. Wenn Ihre Anwendung aber keine Programmlogik umsetzt, bzw. es keine Möglichkeit gibt, das Spiel so zu entwickeln, dass der Computer als virtueller Gegen-/Mitspieler fungiert, dann ist es keine interaktive Anwendung.
+
+Sie müssen sich also als nächstes überlegen, wie Sie eine webbasierte Computerspiel-Version des Mörderspiels konzipieren können. Eine "digitale Unterstützung" ist keine ausreichende Grundlage für das Projekt. Das war der Grund, warum ich Ihnen schrieb, dass Sie sich interaktive Elemente überlegen sollen.
+
+Wertung 2: Projektbeschreibung: gesamt: 5 / 10
+- Interaktionsmöglichkeit: 0 (da hier lediglich Eingaben durchgeführt werden, die keine Interaktionen auslösen.)
+- Knappe aber klare Beschreibung: 5
+- Werbeslogans u.ä.: 0
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
+
+=====================
+=== Feedback Ende ===
+=====================
